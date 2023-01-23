@@ -1,4 +1,3 @@
 # CursoBigData
 # Lenguaje utilizado: Python
-
-#Prueba
+# Archivo de prueba de introducción
