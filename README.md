@@ -1,3 +1,3 @@
 # CursoBigData
-# Lenguaje utilizado: Python
+#Lenguaje utilizado: Python
 Ejercicios
