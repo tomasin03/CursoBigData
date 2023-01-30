@@ -12,5 +12,5 @@ M4 - 10 (Pandas) / SpaceX 1
 # Día 5 Viernes (26-01-23)
 SpaceX 4
 #
-# Módulo 2
+# Módulo 2 (Webs Analytics)
 # Día 1 - Lunes (30-01-23)
